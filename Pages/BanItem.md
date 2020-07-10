@@ -1,5 +1,5 @@
 ---
-permalink: /Pages/BanItem.html
+permalink: Pages/BanItem.html
 ---
 
 # HeteroCraft
