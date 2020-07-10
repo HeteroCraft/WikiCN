@@ -8,4 +8,8 @@ permalink: Pages/index.html
 
 ### 总篇
 
-[禁用物品](https://heterocraft.github.io/WikiCN/Pages/1.html)
+单击下方链接跳转
+
+ [禁用物品](https://heterocraft.github.io/WikiCN/Pages/1.html)
+
+ [玩家信息](https://heterocraft.github.io/WikiCN/Pages/2.html)
