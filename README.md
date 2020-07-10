@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # HeteroCraft
 
 ## 中文百科
