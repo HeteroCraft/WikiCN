@@ -8,4 +8,4 @@ permalink: Pages/index.html
 
 ### 总篇
 
-[禁用物品](https://heterocraft.github.io/WikiCN/Pages/BanItem.md)
+[禁用物品](https://heterocraft.github.io/WikiCN/Pages/1.html)
