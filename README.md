@@ -10,6 +10,10 @@
 
 现在,赶紧来体验船新的HeteroCraft中文百科吧!
 
+### 查看百科
+
+[左击此处](https://heterocraft.github.io/WikiCN/Pages/index.html)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
