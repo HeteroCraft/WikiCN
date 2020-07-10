@@ -1,5 +1,5 @@
 ---
-permalink: /Pages/index.html
+permalink: Pages/index.html
 ---
 
 # HeteroCraft
