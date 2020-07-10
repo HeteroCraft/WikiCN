@@ -1,3 +1,7 @@
+---
+permalink: /Pages/BanItem.html
+---
+
 # HeteroCraft
 
 ## 禁用物品
