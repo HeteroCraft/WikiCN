@@ -43,3 +43,4 @@ Spawn_egg是一种生存无法获取的物品,非管理组成员均无权限获�
 [核心管理组](https://github.com/HeteroCraft/WikiCN/wiki/核心管理组)
 
 [玩家不良行为收集表](https://github.com/HeteroCraft/WikiCN/wiki/玩家不良行为收集表)
+
