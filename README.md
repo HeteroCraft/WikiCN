@@ -1,4 +1,6 @@
-## Welcome to HeteroCraft Wiki (CN)
+# HeteroCraft
+
+## 中文百科
 
 在你的心里，我们的中文Wiki是不是依靠GitHub的库Wiki搭建的?
 
